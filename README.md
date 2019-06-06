@@ -1,4 +1,4 @@
-# 10-DOH-HerbalPlantDetectorWithDatasets
+# Tensorflow-for-poets-2 and 10 DOH approved herbal plants datasets
 Retraining an Object Detection using Tensorflow
 
 Computer Specification Needed:
