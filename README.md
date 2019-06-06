@@ -1,5 +1,5 @@
-# 10-DOH-HerbalPlantDetector_Datasets
-Tensorflow for poets file and Herbal Plants Data set/Images
+# 10-DOH-HerbalPlantDetectorWithDatasets
+Retraining an Object Detection using Tensorflow
 
 Computer Specification Needed:
 1. CPU i7
